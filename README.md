@@ -47,7 +47,7 @@ Siehe ./interface_start.ps1
 # Frontend
 Eine Webanwendung, die speziell für die Darstellung großer, responsiver und dynamisch geladener Tabellen optimiert ist und auf Smartphones, Tablets und Desktops funktioniert. 
 Die Tabellenzeilen können expandiert werden um Titel, Lauf, Abteilung, Bahn und Namen der Mannschaft anzuzeigen.
-Siehe hier: https://github.com/TurboAsterix/AquaLiveResults_Frontend
+Siehe hier: https://github.com/bitsbystefan/AquaLiveResults_Frontend
   
 # Interface.ini
 Enthält Code von https://stackoverflow.com/a/43697842/1031534 und https://gist.github.com/beruic/1be71ae570646bca40734280ea357e3c zum Auslesen der .ini
